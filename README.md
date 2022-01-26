@@ -1,2 +1,2 @@
 # FV13
-FIVEM servers copyier only resources
+FIVEM servers copy only resources
